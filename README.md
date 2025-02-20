@@ -9,6 +9,8 @@ Diagnostic: Why did something happened?
 Predictive: What will happen?  
 Prescriptive: How can we make something happen or prevent from happening?  
 
+The value of data for decision-making decreases over time, with the highest value in near real-time for preventive/predictive purposes, moderate value within hours for proactive insights, lower value within days for diagnostic analysis, and the lowest value being in historical data within days to months.  
+
 ### Common Data pipeline questions
 For Data Engineer,  
 Does the organization have the data that addresses the need? Where is the data stored and in what format?  
