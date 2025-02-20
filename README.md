@@ -14,6 +14,7 @@ What are the security requirements for this data? Who needs access to it and in 
 What types of mechanisms are needed to transfer the data from its locations into the pipeline?  
 
 How much data is there, and how frequently is it updated or processed?  
+
 ### For Data Scientist
 What can the data tell me?  
 
