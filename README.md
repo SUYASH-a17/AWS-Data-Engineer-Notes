@@ -2,15 +2,15 @@
 
 ## Module1- Data-Driven Decisions
 ### More Valuable insights are more difficult to derive
-Less Valuable ---> More Valuable
-Descriptive --> Diagnostic --> Predictive --> Prescriptive
-Descriptive: What happened?
-Diagnostic: Why did something happened?
-Predictive: What will happen?
-Prescriptive: How can we make something happen or prevent from happening?
+Less Valuable ---> More Valuable  
+Descriptive --> Diagnostic --> Predictive --> Prescriptive  
+Descriptive: What happened?  
+Diagnostic: Why did something happened?  
+Predictive: What will happen?  
+Prescriptive: How can we make something happen or prevent from happening?  
 
 ### Common Data pipeline questions
-For Data Engineer,
+For Data Engineer,  
 Does the organization have the data that addresses the need? Where is the data stored and in what format?  
 Will I need to combine data from multiple sources?  
 What is the type and quality of data? What will be the source of truth?  
@@ -18,7 +18,7 @@ What are the security requirements for this data? Who needs access to it and in 
 What types of mechanisms are needed to transfer the data from its locations into the pipeline?  
 How much data is there, and how frequently is it updated or processed?  
 
-For Data Scientist,
+For Data Scientist,  
 What can the data tell me?  
 How will I evaluate the results?  
 What kind of visualization do I need?  
