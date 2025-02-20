@@ -11,6 +11,9 @@ Prescriptive: How can we make something happen or prevent from happening?
 
 The value of data for decision-making decreases over time, with the highest value in near real-time for preventive/predictive purposes, moderate value within hours for proactive insights, lower value within days for diagnostic analysis, and the lowest value being in historical data within days to months.  
 
+## Simple Data Pipeline
+Extracting Data from Data sources --> Data Wrangling tasks like discovering, cleaning, normalizing, enriching --> The wrangled data is tranformed into required format --> Stored & Processed for further use --> Analysis & Visualization --> Evaluating the previous steps --> Predictions & Decisions.  
+
 ### Common Data pipeline questions
 For Data Engineer,  
 Does the organization have the data that addresses the need? Where is the data stored and in what format?  
