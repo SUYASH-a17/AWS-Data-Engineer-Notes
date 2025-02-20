@@ -19,3 +19,7 @@ Do I need a big data framework?
 Which type of AI/ML models fit?  
 What is the simplest way to implement AI/ML?  
 
+### The role of Data Engineer 
+Both data scientist roles and data engineering roles work with the data pipeline, and tasks might be performed by someone in either role.  
+Data engineering is primarily focused on the infrastructure that the data passes through while the data scientist works with the data in the pipeline.  
+To build the right pipeline, you need to ask questions about the desired outcomes and the data and then iterate on your answers as you learn more.  
