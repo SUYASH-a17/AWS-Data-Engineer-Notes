@@ -43,4 +43,6 @@ Volume: How big is the dataset And how much new data is generated?
 Velocity: How frequently is the new data generated and ingested?  
 Variety: What types and formats? How many different sources does the data come from?  
 Veracity: How accurate, precise and trusted is the data?  
-Value: What insights can be pulled from the data?
+Value: What insights can be pulled from the data?  
+
+Most resources are put to get the best value from the data.
