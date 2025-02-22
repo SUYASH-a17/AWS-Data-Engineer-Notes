@@ -37,3 +37,10 @@ Both data scientist roles and data engineering roles work with the data pipeline
 Data engineering is primarily focused on the infrastructure that the data passes through while the data scientist works with the data in the pipeline.  
 To build the right pipeline, you need to ask questions about the desired outcomes and the data and then iterate on your answers as you learn more.  
 
+### Data Characteristics that drive infrastruture decision
+The 5 V's of Data
+Volume: How big is the dataset And how much new data is generated?  
+Velocity: How frequently is the new data generated and ingested?  
+Variety: What types and formats? How many different sources does the data come from?  
+Veracity: How accurate, precise and trusted is the data?  
+Value: What insights can be pulled from the data?
