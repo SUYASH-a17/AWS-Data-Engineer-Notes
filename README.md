@@ -4,10 +4,10 @@
 ### More Valuable insights are more difficult to derive
 Less Valuable ---> More Valuable  
 Descriptive --> Diagnostic --> Predictive --> Prescriptive  
-Descriptive: What happened?  
-Diagnostic: Why did something happened?  
-Predictive: What will happen?  
-Prescriptive: How can we make something happen or prevent from happening?  
+**Descriptive**: What happened?  
+**Diagnostic**: Why did something happened?  
+**Predictive**: What will happen?  
+**Prescriptive**: How can we make something happen or prevent from happening?  
 
 The value of data for decision-making decreases over time, with the highest value in near real-time for preventive/predictive purposes, moderate value within hours for proactive insights, lower value within days for diagnostic analysis, and the lowest value being in historical data within days to months.  
 
@@ -39,10 +39,10 @@ To build the right pipeline, you need to ask questions about the desired outcome
 
 ### Data Characteristics that drive infrastruture decision
 The 5 V's of Data  
-Volume: How big is the dataset And how much new data is generated?  
-Velocity: How frequently is the new data generated and ingested?  
-Variety: What types and formats? How many different sources does the data come from?  
-Veracity: How accurate, precise and trusted is the data?  
-Value: What insights can be pulled from the data?  
+**Volume**: How big is the dataset And how much new data is generated?  
+**Velocity**: How frequently is the new data generated and ingested?  
+**Variety**: What types and formats? How many different sources does the data come from?  
+**Veracity**: How accurate, precise and trusted is the data?  
+**Value**: What insights can be pulled from the data?  
 
 Most resources are put to get the best value from the data.
