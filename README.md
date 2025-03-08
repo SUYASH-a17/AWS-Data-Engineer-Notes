@@ -1,6 +1,6 @@
 # AWS-Data-Engineer
 
-## Module1- Data-Driven Decisions
+## Module 2- Data-Driven Decisions
 ### More Valuable insights are more difficult to derive
 Less Valuable ---> More Valuable  
 Descriptive --> Diagnostic --> Predictive --> Prescriptive  
@@ -46,3 +46,5 @@ The 5 V's of Data
 **Value**: What insights can be pulled from the data?  
 
 Most resources are put to get the best value from the data.
+
+## Module 3 -
