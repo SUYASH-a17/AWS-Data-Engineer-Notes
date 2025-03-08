@@ -47,4 +47,4 @@ The 5 V's of Data
 
 Most resources are put to get the best value from the data.
 
-## Module 3 -
+## Module 3 - The Elements of Data
