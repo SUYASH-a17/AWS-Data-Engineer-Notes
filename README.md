@@ -49,3 +49,4 @@ The 5 V's of Data
 
 Most resources are put to get the best value from the data.
 
+### Volume and Velocity
