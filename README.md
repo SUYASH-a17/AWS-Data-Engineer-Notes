@@ -50,3 +50,7 @@ The 5 V's of Data
 Most resources are put to get the best value from the data.
 
 ### Volume and Velocity
+- Volume is about how much data is needed to process.
+- Velocity is about how quickly data enters and moves through the pipeline.
+- Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.
+- It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
