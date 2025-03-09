@@ -54,3 +54,8 @@ Most resources are put to get the best value from the data.
 - Velocity is about how quickly data enters and moves through the pipeline.
 - Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.
 - It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
+
+### Variety
+- Variety in data includes structured, semi-structured, unstructured.
+- Structured data is the easiet to query but the least flexible.
+- Unstructured data is the hardest to query but the most flexible.
