@@ -56,10 +56,10 @@ Most resources are put to get the best value from the data.
 - It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
 
 **Scale the pipeline for volume and velocity of data**  
-Scaling is important to handle data ingestion and storage at the pace of arrival.
-Consider how long data should be stored to balance cost and availability.
-To address a business problem we need to understand the amount data is needed to be processed and how quickly too.
-How frequently the data must be incorporated as consumers may need to access the data.
+Scaling is important to handle data ingestion and storage at the pace of arrival.  
+Consider how long data should be stored to balance cost and availability.  
+To address a business problem we need to understand the amount data is needed to be processed and how quickly too.  
+How frequently the data must be incorporated as consumers may need to access the data.  
 
 ### Ingestion
 a) Streaming Ingestion: Continual ingestion of data that is needed to be processed as quickly as possible.  
