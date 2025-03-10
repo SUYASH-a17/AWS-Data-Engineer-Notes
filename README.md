@@ -55,8 +55,8 @@ Most resources are put to get the best value from the data.
 - Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.
 - It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
 
-**Scale the pipeline for volume and velocity of data**
-Scaling is important to handle data ingestion and storage.
+**Scale the pipeline for volume and velocity of data**  
+Scaling is important to handle data ingestion and storage at the pace of arrival.
 
 ### Variety - data types 
 - Variety in data includes structured, semi-structured, unstructured.
