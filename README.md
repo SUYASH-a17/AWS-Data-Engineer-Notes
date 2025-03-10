@@ -62,8 +62,8 @@ To address a business problem we need to understand the amount data is needed to
 How frequently the data must be incorporated as consumers may need to access the data.
 
 ### Ingestion
-a) Streaming Ingestion: Continual ingestion of data that is needed to be processed as quickly as possible.
-b) Batch Ingestion: Periodical ingestion of data that is stored to process in batch.
+a) Streaming Ingestion: Continual ingestion of data that is needed to be processed as quickly as possible.  
+b) Batch Ingestion: Periodical ingestion of data that is stored to process in batch.  
 
 ### Variety - data types 
 - Variety in data includes structured, semi-structured, unstructured.
