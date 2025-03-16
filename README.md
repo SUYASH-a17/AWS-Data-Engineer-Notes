@@ -1,4 +1,4 @@
-# AWS-Data-Engineer
+# AWS-Data-Engineer-Notes
 
 ## Module 2- Data-Driven Decisions
 ### More Valuable insights are more difficult to derive
