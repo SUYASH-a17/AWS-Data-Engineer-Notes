@@ -66,11 +66,11 @@ a) Streaming Ingestion: Continual ingestion of data that is needed to be process
 b) Batch Ingestion: Periodical ingestion of data that is stored to process in batch.  
 
 ### Variety - data types 
-a) Variety in data includes structured, semi-structured, unstructured.
-b) Structured data is the easiet to query but the least flexible.
-c) Unstructured data is the hardest to query but the most flexible.
+a) Variety in data includes structured, semi-structured, unstructured.  
+b) Structured data is the easiet to query but the least flexible.  
+c) Unstructured data is the hardest to query but the most flexible.  
 
 ### Vairety - data sources
-a) Databases and files owned by the company itself.
-b) Public datasets available from various sources.
-c) Data generated from events, devices, sensors continually and includes time based component.
+a) Databases and files owned by the company itself.  
+b) Public datasets available from various sources.  
+c) Data generated from events, devices, sensors continually and includes time based component.  
