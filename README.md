@@ -47,13 +47,13 @@ The 5 V's of Data
 **Veracity**: How accurate, precise and trusted is the data?  
 **Value**: What insights can be pulled from the data?  
 
-Most resources are put to get the best value from the data.
+Most resources are put to get the best value from the data.  
 
-### Volume and Velocity
-a) Volume is about how much data is needed to process.
-b) Velocity is about how quickly data enters and moves through the pipeline.
-c) Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.
-d) It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
+### Volume and Velocity  
+a) Volume is about how much data is needed to process.  
+b) Velocity is about how quickly data enters and moves through the pipeline.  
+c) Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.  
+d) It is important to evaluate the volume and velocity requirements for each layer in the pipeline.  
 
 **Scale the pipeline for volume and velocity of data**  
 Scaling is important to handle data ingestion and storage at the pace of arrival.  
