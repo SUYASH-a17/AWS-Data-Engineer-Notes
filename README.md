@@ -71,6 +71,6 @@ b) Structured data is the easiet to query but the least flexible.
 c) Unstructured data is the hardest to query but the most flexible.  
 
 ### Vairety - data sources
-a) Databases and files owned by the company itself.  
-b) Public datasets available from various sources.  
-c) Data generated from events, devices, sensors continually and includes time based component.  
+a) Databases and files owned by the company itself; It is often structured data  
+b) Public datasets available from various sources; It is often semi-structured data  
+c) Data generated from events, devices, sensors continually and includes time based component; It is mostly time-series data  
