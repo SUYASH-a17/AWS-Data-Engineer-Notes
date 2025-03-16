@@ -61,7 +61,7 @@ Consider how long data should be stored to balance cost and availability.
 To address a business problem we need to understand the amount data is needed to be processed and how quickly too.  
 How frequently the data must be incorporated as consumers may need to access the data.  
 
-### Ingestion
+**Ingestion**
 a) Streaming Ingestion: Continual ingestion of data that is needed to be processed as quickly as possible.  
 b) Batch Ingestion: Periodical ingestion of data that is stored to process in batch.  
 
@@ -74,3 +74,5 @@ c) Unstructured data is the hardest to query but the most flexible.
 a) Databases and files owned by the company itself; It is often structured data  
 b) Public datasets available from various sources; It is often semi-structured data  
 c) Data generated from events, devices, sensors continually and includes time based component; It is mostly time-series data  
+
+### Veracity & Value 
