@@ -50,10 +50,10 @@ The 5 V's of Data
 Most resources are put to get the best value from the data.
 
 ### Volume and Velocity
-- Volume is about how much data is needed to process.
-- Velocity is about how quickly data enters and moves through the pipeline.
-- Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.
-- It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
+a) Volume is about how much data is needed to process.
+b) Velocity is about how quickly data enters and moves through the pipeline.
+c) Volume and Velocity together drive the expected throughput and scaling requirements of the pipeline.
+d) It is important to evaluate the volume and velocity requirements for each layer in the pipeline.
 
 **Scale the pipeline for volume and velocity of data**  
 Scaling is important to handle data ingestion and storage at the pace of arrival.  
@@ -61,7 +61,7 @@ Consider how long data should be stored to balance cost and availability.
 To address a business problem we need to understand the amount data is needed to be processed and how quickly too.  
 How frequently the data must be incorporated as consumers may need to access the data.  
 
-**Ingestion**
+**Ingestion**  
 a) Streaming Ingestion: Continual ingestion of data that is needed to be processed as quickly as possible.  
 b) Batch Ingestion: Periodical ingestion of data that is stored to process in batch.  
 
@@ -71,8 +71,30 @@ b) Structured data is the easiet to query but the least flexible.
 c) Unstructured data is the hardest to query but the most flexible.  
 
 ### Vairety - data sources
-a) Databases and files owned by the company itself; It is often structured data  
-b) Public datasets available from various sources; It is often semi-structured data  
-c) Data generated from events, devices, sensors continually and includes time based component; It is mostly time-series data  
+a) Databases and files owned by the company itself; It is often structured data.  
+b) Public datasets available from various sources; It is often semi-structured data.  
+c) Data generated from events, devices, sensors continually and includes time based component; It is mostly time-series data.  
 
 ### Veracity & Value 
+a) Data integrity crucial as it may be combined with various data from different sources.  
+b) Making data-driven decisions with bad data is much worse than limited or no data.
+c) The steps of ingestion, storage and processing play vital role in maintaining veracity of the data.  
+
+**Examples of data issues that decrease veracity**
+a) Discover the following 
+- Dated information
+- Missing data
+- Lack of lineage
+- Ambiguity
+- Statistical bias
+
+b) Cleaning the data
+- Duplicates
+- Abnormalities
+- Difference in source
+
+c) Prevent
+- Software bugs
+- Tampering
+- Humnan error
+  
