@@ -160,3 +160,9 @@ This module equips you with essential knowledge to navigate data pipelines effec
 ---
 
 This summary serves as a guide to enhance your understanding of data pipelines and improve data quality in your workflows.
+
+For Amazon S3: Access buckets, list bucket contents, and read and write objects, but not create a bucket
+For AWS Glue: Create databases, and tables within the databases
+For CloudShell: use CloudShell, for example issue AWS CLI commands
+For CloudFormation: Create stacks and validate templates
+For Athena: Create a Data Catalog, create and get named queries, and start queries
