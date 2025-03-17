@@ -97,4 +97,5 @@ c) Prevent
 - Software bugs
 - Tampering
 - Humnan error
-  
+
+Value relies on veracity as good quality data is required for making good decisions.  
