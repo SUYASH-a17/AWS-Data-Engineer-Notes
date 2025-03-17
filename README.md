@@ -75,12 +75,12 @@ a) Databases and files owned by the company itself; It is often structured data.
 b) Public datasets available from various sources; It is often semi-structured data.  
 c) Data generated from events, devices, sensors continually and includes time based component; It is mostly time-series data.  
 
-### Veracity & Value 
+### Veracity & Value  
 a) Data integrity crucial as it may be combined with various data from different sources.  
-b) Making data-driven decisions with bad data is much worse than limited or no data.
+b) Making data-driven decisions with bad data is much worse than limited or no data.  
 c) The steps of ingestion, storage and processing play vital role in maintaining veracity of the data.  
 
-**Examples of data issues that decrease veracity**
+**Examples of data issues that decrease veracity**  
 a) Discover the following 
 - Dated information
 - Missing data
