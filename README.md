@@ -99,3 +99,22 @@ c) Prevent
 - Humnan error
 
 Value relies on veracity as good quality data is required for making good decisions.  
+
+# Evaluating the Veracity of Data
+A guide to asking critical questions and ensuring data reliability.
+---
+## Data Engineering-Focused Questions:
+- How is the source managed and maintained?
+- Who generated the data, and who owns it?
+- How often is the data updated?
+- Do we need all fields and all records?
+- Do audit trails exist?
+---
+## Data Science-Focused Questions:
+- What methods were used to collect and process the data?
+- Is this dataset the product of scientific research methods?
+- What type of bias is likely part of this dataset?
+- Does the data appear to be complete?
+- How recent is the most recent data? Are there time gaps?
+---
+This checklist is essential for ensuring that your data sources are reliable and suitable for analytics and decision-making.
