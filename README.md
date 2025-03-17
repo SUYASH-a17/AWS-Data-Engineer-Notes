@@ -122,6 +122,7 @@ This checklist is essential for ensuring that your data sources are reliable and
 - What is cleaning in your dictionary? Fiil null? Normalize the dataset? Or keep it raw?  
 - Tracing the source of errors in data for data integrity.  
 - Make changes in the dataset after careful consideration.  
-- Valuable Raw data shouldn't be affected after data cleaning.
+- Valuable Raw data shouldn't be affected after data cleaning.  
 
-Transformation includes changing data according to certain standards.
+Transformation includes changing data according to certain standards.  
+Advanced transformation includes filtering records, joint operations, splitting columns, aggregating rows and data validation.  
