@@ -142,3 +142,21 @@ Advanced transformation includes filtering records, joint operations, splitting 
 ---
 
 This checklist is essential for maintaining high standards of data quality and ensuring that your systems and workflows remain robust and secure.
+
+# Module Summary
+
+This module equips you with essential knowledge to navigate data pipelines effectively. Here's what you'll learn:
+
+---
+
+## Key Learning Objectives:
+- **Five Vs of Data:** Understand the foundational characteristics that define data.
+- **Impact of Volume and Velocity:** Explore how data volume and velocity affect data pipelines.
+- **Data Types:** Compare and contrast structured, semistructured, and unstructured data.
+- **Common Data Sources:** Identify sources typically used to feed data pipelines.
+- **Data Veracity:** Learn how to pose questions that assess the reliability of data.
+- **Improving Data Integrity:** Discover methods to enhance the veracity of your data pipeline.
+
+---
+
+This summary serves as a guide to enhance your understanding of data pipelines and improve data quality in your workflows.
