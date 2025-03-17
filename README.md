@@ -126,3 +126,19 @@ This checklist is essential for ensuring that your data sources are reliable and
 
 Transformation includes changing data according to certain standards.  
 Advanced transformation includes filtering records, joint operations, splitting columns, aggregating rows and data validation.  
+
+### Maintaining Data Integrity and Consistency
+
+**Key Principles for Ensuring Data Reliability:**
+- **Secure all layers of the pipeline.**
+- **Grant least privilege access.**
+- **Apply best practices to maintain data integrity.**
+- **Keep audit trails.**
+- **Implement data compliance and governance processes**, including:
+  - Data classification
+  - Data cataloging
+- **Maintain a single source of truth.**
+
+---
+
+This checklist is essential for maintaining high standards of data quality and ensuring that your systems and workflows remain robust and secure.
