@@ -168,4 +168,4 @@ For CloudFormation: Create stacks and validate templates
 For Athena: Create a Data Catalog, create and get named queries, and start queries
 
 
-## Module4 -
+## Module 4 - Design Principles and Patterns for Data Pipelines
